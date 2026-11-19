@@ -122,6 +122,7 @@ Loja de extensões bloqueada no computador de trabalho? Veja [como instalar pelo
 - ![Tabela rápida](/img/icon-tabelarapida.png) [Tabela rápida](./pages/TABELARAPIDA.md)
 - [Tabela com colunas em %](./pages/TABELACOLUNAS.md)
 - [Gerar documento com modelo limpo](./pages/MODELOLIMPO.md)
+- [Termo de Abertura criado junto com o processo](./pages/TERMOABERTURA.md) (específico do SEI de Maringá)
 - ![Alinhar o texto à esquerda, ao centro, à direita ou justificado](/img/icon-alinhartexto.png) [Alinhar o texto à esquerda, ao centro, à direita ou justificado](./pages/ALINHARTEXTO.md)
 - ![Aumentar ou reduzir o tamanho da fonte](/img/icon-aumentarfonte.png) [Aumentar ou reduzir o tamanho da fonte](./pages/AUMENTARFONTE.md)
 - ![Primeira letra maiúscula (exceto artigos e preposições)](/img/icon-letramaiusc.png) [Primeira letra maiúscula (exceto artigos e preposições)](./pages/LETRAMAIUSC.md)

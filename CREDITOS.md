@@ -20,6 +20,7 @@ mantenedor quiser.
 | Função | Manual | Código |
 | ------ | ------ | ------ |
 | Tabela com colunas em %: larguras, posição, temas personalizados, bordas para o "Gerar PDF", limpeza de tabela colada | [pages/TABELACOLUNAS.md](./pages/TABELACOLUNAS.md) | [tabela-colunas/](./tabela-colunas/) |
+| Termo de Abertura criado junto com o processo novo (**específico do SEI de Maringá**, tipo 289; não se destina à versão oficial) | [pages/TERMOABERTURA.md](./pages/TERMOABERTURA.md) | [termo-abertura/](./termo-abertura/) |
 | Gerar documento com modelo limpo | [pages/MODELOLIMPO.md](./pages/MODELOLIMPO.md) | [modelo-limpo/](./modelo-limpo/) |
 | Núcleo: estilos do editor lidos de `infra.estilo`, como chegam no SEI 5.0.5 | n/a | [sei-nucleo/src/dominio/editor.ts](./sei-nucleo/src/dominio/editor.ts) |
 | Botões de tabela do SEI Pro num grupo próprio da barra do CK5, para não se sobreporem | n/a | `inserirGrupoTabelaCK5` em [dist/js/sei-pro-editor.js](./dist/js/sei-pro-editor.js) |
