@@ -2,6 +2,16 @@
 
 ## ![SEI Pro Histórico de Versões](../img/icon-historico.png) Histórico de versões
 
+### Contribuição do IPPLAM (Maringá/PR), sobre a versão 3.8
+19/11/2026
+
+Versão modificada pelo **IPPLAM**, Instituto de Pesquisa e Planejamento Urbano de Maringá, autarquia do Município de Maringá. No navegador ela aparece como *SEI Pro Lab PMM-5.0.5*. Veja os [Créditos](../CREDITOS.md).
+
+- **Novo: [Tabela com colunas em %](../pages/TABELACOLUNAS.md)** (SEI 5). Cria ou ajusta a tabela com a largura de cada coluna em porcentagem, para sair igual na tela, na impressão e no "Gerar PDF". Tem posição na página, temas do SEI com zebra pela 1ª coluna, cores e bordas personalizadas, bordas que aparecem no "Gerar PDF", limpeza de tabela colada e texto pelos estilos do órgão.
+- **Novo: [Gerar documento com modelo limpo](../pages/MODELOLIMPO.md)** (SEI 5, desligado de fábrica). Gera o documento a partir do modelo sem herdar a formatação do Google Docs e do editor antigo.
+- **Correção:** no SEI 5.0.5 os estilos do editor chegam em `infra.estilo`. Antes, as funções que dependem deles não achavam nenhum estilo.
+- **Correção:** os botões de tabela do SEI Pro ficam num grupo próprio na barra do editor e não se sobrepõem mais quando a barra quebra de linha.
+
 ### Versão 3.8
 18/10/2026
 
